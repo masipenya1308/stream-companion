@@ -1,5 +1,6 @@
 def start_companion():
-    print("Компаньон запущен, погнали!")
+    return"Компаньон запущен, погнали!"
+
 
 if __name__ == "__main__":
-        print(start_companion())
+    print(start_companion())
